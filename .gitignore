@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+src/test/resources/configuration.properties
+mobile-allure-results/
+/.idea
